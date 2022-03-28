@@ -86,6 +86,7 @@ Voice channels are not actively monitored. Members are free to make use of the b
 :small_blue_diamond: 8.2 - [Major violations of Discord's Guidelines of service](https://discordapp.com/guidelines).
 
 If a member is found to have participated in any such actions listed above, they will:
+
 - be officially warned, or;
 - be temporarily muted, starting from 1 hour(s), or;
 - be permanently suspended.
