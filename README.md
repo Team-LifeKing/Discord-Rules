@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/8VPeD3F.jpeg" width="480px" height="360px" style="max-width:100%;">
+    <img src="https://i.imgur.com/8VPeD3F.jpeg" width="480px" height="260px" style="max-width:100%;">
     <h1>Discord Rules - Team LifeKing</h1>
 </div>
 
