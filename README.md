@@ -45,7 +45,7 @@
 
 **4 - Advertisement**
 
-:small_blue_diamond: 4.1 - Using content or sending messages in the server, that advertise or solicit, either explicitly or implicitly, any non-beneficial, organizations, websites, or services, or that provide direct links to said external resources except #𒋨・:fast_forward:yt-channel-ads , #𒋨・:clapper:yt-video-ads , #𒋨・:robot:discord-ads  ,#𒋨・:camera:insta-ads , #𒋨・:tv:twitch-ads .
+:small_blue_diamond: 4.1 - Using content or sending messages in the server, that advertise or solicit, either explicitly or implicitly, any non-beneficial, organizations, websites, or services, or that provide direct links to said external resources except ✠│yt-channel-ads, ✠│yt-video-ads, ✠│discord-ads, ✠│instagram-ads, ✠│twitch-ads.
 
 **5 - Threats & Insults**
 
